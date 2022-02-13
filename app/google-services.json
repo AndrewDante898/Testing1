@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946067127232",
+    "firebase_url": "https://fyp-intern-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fyp-intern",
+    "storage_bucket": "fyp-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946067127232:android:77390226f67e93037b6625",
+        "android_client_info": {
+          "package_name": "com.example.youtubefyptinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946067127232-75rc41t9kkvbpth6uli907o9f8pk350h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOjPDfe7VXL6Era_PQrb5YItRb2wVz34Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946067127232-75rc41t9kkvbpth6uli907o9f8pk350h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
